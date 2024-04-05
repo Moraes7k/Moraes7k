@@ -16,4 +16,4 @@ Hey there! I'm Gabriel, a budding programmer with a passion for design. Original
 
 ### Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriel_Moraes&theme=whatsapp-dark2&border_radius=40&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gabriel_Moraes&theme=shadow-green&border_radius=40&card_width=1200)](https://git.io/streak-stats)
