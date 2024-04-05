@@ -6,8 +6,10 @@ Hey there! I'm Gabriel, a budding programmer with a passion for design. Original
 ##
 
 ### My skills 🌾
-<div style="display: inline_block"><br>
-  <img width="40x" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40px" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffea00" />
+<div style="display: inline_block">
+  ✢
+   <img  alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img  alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img  alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffea00" />
+  ✢
 </div>
