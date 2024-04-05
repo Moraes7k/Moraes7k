@@ -1,4 +1,4 @@
-### Hi I'm Gabriel🌳
+# Hi I'm Gabriel
 
 ### About Me 🌱
 Hey there! I'm Gabriel, a budding programmer with a passion for design. Originally from Hortolândia, São Paulo, Brazil, I've embarked on an exciting journey into the world of coding. With a keen eye for aesthetics and a love for problem-solving, I'm dedicated to honing my skills and creating meaningful projects.
